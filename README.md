@@ -28,10 +28,10 @@ It uses the(https://www.frankfurter.app/) to fetch real-time exchange rates.
    git clone https://github.com/dhruvinpatel2608/Currency-converter.git
 
  **project Structure**
- currency-converter/
-│── index.html   # Main HTML file
-│── app.js       # JavaScript logic
-└── README.md    # Documentation
+- currency-converter/
+- │── index.html   # Main HTML file
+- │── app.js       # JavaScript logic
+- └── README.md    # Documentation
 
 **📡 API Reference**
 
@@ -46,6 +46,7 @@ It uses the(https://www.frankfurter.app/) to fetch real-time exchange rates.
 - Email: dhruvinpaghdal4@gmail.com
 
    
+
 
 
 
