@@ -25,7 +25,7 @@ It uses the(https://www.frankfurter.app/) to fetch real-time exchange rates.
 ## ⚡ How to Run Locally
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/currency-converter.git
+   git clone https://github.com/dhruvinpatel2608/Currency_converter.git
 
  **project Structure**
  currency-converter/
@@ -41,3 +41,4 @@ Latest Conversion: /latest?amount=1&from=USD&to=INR
 
 
    
+
