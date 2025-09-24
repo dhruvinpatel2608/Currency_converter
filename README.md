@@ -1,7 +1,7 @@
 # 🌍 Currency Converter
 
 A simple and stylish **Currency Converter Web App** built with **HTML, CSS, and JavaScript**.  
-It uses the(https://www.frankfurter.app/) to fetch real-time exchange rates.
+It uses the (https://www.frankfurter.app/) to fetch real-time exchange rates.
 
 ---
 
@@ -29,9 +29,9 @@ It uses the(https://www.frankfurter.app/) to fetch real-time exchange rates.
 
  **project Structure**
 - currency-converter/
-- │── index.html   # Main HTML file
-- │── app.js       # JavaScript logic
-- └── README.md    # Documentation
+- │── index.html       # Main HTML file
+- │── app.js           # JavaScript logic
+- └── README.md        # Documentation
 
 **📡 API Reference**
 
@@ -46,6 +46,7 @@ It uses the(https://www.frankfurter.app/) to fetch real-time exchange rates.
 - Email: dhruvinpaghdal4@gmail.com
 
    
+
 
 
 
