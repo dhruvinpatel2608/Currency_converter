@@ -35,16 +35,17 @@ It uses the(https://www.frankfurter.app/) to fetch real-time exchange rates.
 
 **📡 API Reference**
 
-Base URL: https://api.frankfurter.app
-Currencies List: /currencies
-Latest Conversion: /latest?amount=1&from=USD&to=INR
+- Base URL: https://api.frankfurter.app
+- Currencies List: /currencies
+- Latest Conversion: /latest?amount=1&from=USD&to=INR
 
 👨‍💻 Author
 
-Developed by Dhruvin Patel
-GitHub: dhruvinpatel2608
-Email: dhruvinpaghdal4@gmail.com
+- Developed by Dhruvin Patel
+- GitHub: dhruvinpatel2608
+- Email: dhruvinpaghdal4@gmail.com
 
    
+
 
 
